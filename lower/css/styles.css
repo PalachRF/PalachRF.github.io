@@ -1,0 +1,54 @@
+#zagolovok_court_order {
+	background-color: turquoise;
+	
+}
+#zagolovok_user_list {
+	background-color: chartreuse;
+	
+}
+#court_order {
+	background-color: turquoise;
+}
+
+#user_list {
+	background-color: chartreuse;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+	font-weight: bolder;
+}
+
+h3 {
+	color: red;
+	font-weight: bolder;
+}
+
+h4 {
+	font-style: italic;
+	text-align: center
+}
+
+.instruction {
+	display: inline-block
+}
+
+.instruction_video {
+	display: inline-block;
+		
+}
+
+.money b {
+	color: red;
+}
+
+.non_edit_text{
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+
