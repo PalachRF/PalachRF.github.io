@@ -51,4 +51,7 @@ h4 {
     user-select: none;
 }
 
+#money {
+	display: none;
 
+}
